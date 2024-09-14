@@ -439,6 +439,9 @@ a:focus {
 
 .professional_section {
   background-color: #d1e3ff;
+  background-image: url('images/ukexpertsolutionsbg.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .professional_section .row {
