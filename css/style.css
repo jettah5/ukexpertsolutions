@@ -480,10 +480,15 @@ a:focus {
 
 .service_section {
   position: relative;
+  background-image: url('images/ukexpertsolutionsbg.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .service_home {
   background-image: url('images/ukexpertsolutionsbg.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .service_section .box {
