@@ -439,6 +439,9 @@ a:focus {
 
 .professional_section {
   background-color: #d1e3ff;
+  background-image: url('images/ukexpertsolutionsbg.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .professional_section .row {
@@ -480,10 +483,15 @@ a:focus {
 
 .service_section {
   position: relative;
+  background-image: url('images/ukexpertsolutionsbg.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .service_home {
-  background-color: #d1e3ff;
+  background-image: url('images/ukexpertsolutionsbg.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .service_section .box {
@@ -666,25 +674,25 @@ a:focus {
   padding-left: 25px;
   background-color: #ffffff;
   outline: none;
-  color: #000;
+  color: #000000;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
 }
 
 .contact_section input::-webkit-input-placeholder {
-  color: #737272;
+  color: #000000;
 }
 
 .contact_section input:-ms-input-placeholder {
-  color: #737272;
+  color: #000000;
 }
 
 .contact_section input::-ms-input-placeholder {
-  color: #737272;
+  color: #000000;
 }
 
 .contact_section input::placeholder {
-  color: #737272;
+  color: #000000;
 }
 
 .contact_section input.message-box {
